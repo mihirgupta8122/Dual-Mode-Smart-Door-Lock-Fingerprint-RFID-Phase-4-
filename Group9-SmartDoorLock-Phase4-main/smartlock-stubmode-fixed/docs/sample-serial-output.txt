@@ -1,0 +1,5 @@
+
+[INFO] Boot: Fingerprint + RFID Smart Lock (STUB compatible)
+[INFO] RFID (STUB) ready — press 'r' to simulate auth, 'a' for admin
+[INFO] Fingerprint (STUB) ready — press 'p' to simulate auth
+[INFO] Controls (when board attached): 'r' RFID, 'p' FP, 'a' admin → 'e'/'d'/'c'/'x'
