@@ -47,13 +47,14 @@ LED and buzzer feedback system
 Although implemented using Arduino’s loop‑based execution model, the code is organized in a task‑oriented and event‑driven structure, making it well‑suited for future FreeRTOS task migration.
 
 📁 Repository Structure (Matches Actual Files)
-
 Group9-SmartDoorLock-Phase4/
 │
 ├── smartlock-submode-fixed/
 │
 ├── UML diagram/
-│   ├── Screenshot 2026-03-24 ... (Class, Use Case, Sequence)
+│   ├── Screenshot 2026-03-24 ... (Class Diagram)
+│   ├── Screenshot 2026-03-24 ... (Use Case Diagram)
+│   ├── Screenshot 2026-03-24 ... (Sequence Diagram)
 │
 ├── docs/
 │   ├── architecture.md
@@ -84,7 +85,6 @@ Group9-SmartDoorLock-Phase4/
 ├── README.md
 ├── README_PHASE3.md
 └── .DS_Store
-
 ✅ This structure reflects your actual implementation, UML work, and documentation.
 
 📐 UML & Design Artifacts
